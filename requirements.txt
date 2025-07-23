@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+boto3
+selenium
+apache-airflow==2.9.0
+pytz
+schedule
